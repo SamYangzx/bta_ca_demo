@@ -11,7 +11,7 @@
         android:paddingLeft="@dimen/activity_horizontal_margin"
         android:paddingRight="@dimen/activity_horizontal_margin"
         android:paddingTop="@dimen/activity_vertical_margin"
-        tools:context="com.hello.demo.MainActivity" >
+        tools:context="com.gome.teetest.MainActivity" >
 
         <LinearLayout
             android:layout_width="match_parent"
@@ -27,7 +27,7 @@
                       android:text="0x00ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff" />
 
             <Button
-                android:onClick="addBigInt"
+                android:onClick="encrypt"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Add big int" />

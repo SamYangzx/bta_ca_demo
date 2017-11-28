@@ -53,9 +53,9 @@
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 151,
+                        "startOffset": 152,
                         "endColumn": 52,
-                        "endOffset": 199
+                        "endOffset": 200
                     }
                 }
             },
@@ -64,8 +64,8 @@
                     "startLine": 5,
                     "startColumn": 4,
                     "startOffset": 222,
-                    "endColumn": 41,
-                    "endOffset": 259
+                    "endColumn": 42,
+                    "endOffset": 260
                 },
                 "from": {
                     "file": "D:\\AndroidProject\\bta_ca1\\app\\src\\main\\res\\values\\strings.xml",
@@ -73,8 +73,8 @@
                         "startLine": 3,
                         "startColumn": 4,
                         "startOffset": 56,
-                        "endColumn": 41,
-                        "endOffset": 93
+                        "endColumn": 42,
+                        "endOffset": 94
                     }
                 }
             },
@@ -82,18 +82,18 @@
                 "to": {
                     "startLine": 6,
                     "startColumn": 4,
-                    "startOffset": 264,
+                    "startOffset": 265,
                     "endColumn": 52,
-                    "endOffset": 312
+                    "endOffset": 313
                 },
                 "from": {
                     "file": "D:\\AndroidProject\\bta_ca1\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 98,
+                        "startOffset": 99,
                         "endColumn": 52,
-                        "endOffset": 146
+                        "endOffset": 147
                     }
                 }
             },
@@ -101,10 +101,10 @@
                 "to": {
                     "startLine": 7,
                     "startColumn": 4,
-                    "startOffset": 317,
+                    "startOffset": 318,
                     "endLine": 13,
                     "endColumn": 12,
-                    "endOffset": 603
+                    "endOffset": 604
                 },
                 "from": {
                     "file": "D:\\AndroidProject\\bta_ca1\\app\\src\\main\\res\\values\\styles.xml",
@@ -122,10 +122,10 @@
                 "to": {
                     "startLine": 14,
                     "startColumn": 4,
-                    "startOffset": 608,
+                    "startOffset": 609,
                     "endLine": 16,
                     "endColumn": 12,
-                    "endOffset": 763
+                    "endOffset": 764
                 },
                 "from": {
                     "file": "D:\\AndroidProject\\bta_ca1\\app\\src\\main\\res\\values\\styles.xml",
